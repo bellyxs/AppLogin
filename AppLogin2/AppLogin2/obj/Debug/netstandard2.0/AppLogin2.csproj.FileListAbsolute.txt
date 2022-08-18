@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\View\Protegida.xaml.g.cs
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\bin\Debug\netstandard2.0\AppLogin2.deps.json
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\bin\Debug\netstandard2.0\AppLogin2.dll
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\bin\Debug\netstandard2.0\AppLogin2.pdb
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.dll
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\refint\AppLogin2.dll
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\AppLogin2.pdb
+C:\Users\Usuario\source\repos\AppLogin2\AppLogin2\AppLogin2\obj\Debug\netstandard2.0\ref\AppLogin2.dll
